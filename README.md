@@ -7,4 +7,4 @@ perl interpreter installed
 # START SCRIPT
 perl serieA.pl
 
-![image](https://user-images.githubusercontent.com/93258305/162642358-b6fb3506-e92a-440a-b941-8d823863b19b.png)
+![image](https://user-images.githubusercontent.com/93258305/162642439-733f0222-8c52-487f-beea-5df5fcdd224f.png)
